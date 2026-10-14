@@ -33,7 +33,7 @@ IAM helps protect AWS resources from unauthorized access.
 ### Result
 
 **Successfully opened the IAM service and understood how IAM is used to securely manage access to AWS resources.**
-![AWS IAM search](../screenshots/image-01.png)
+![AWS IAM search](screenshots/image-01.png)
 ---
 
 ## 2. IAM Components
@@ -131,7 +131,7 @@ IAM User
 
 **Successfully created and verified an IAM User and understood how individual AWS identities are managed.**
 
-![AWS IAM users search](../screenshots/image-02.png)
+![AWS IAM users search](screenshots/image-02.png)
 
 ---
 
@@ -174,7 +174,7 @@ If a policy is attached to the **Developers** group, users in the group can rece
 ### Result
 
 **Successfully created and configured an IAM Group and understood how groups simplify permission management for multiple users.**
-![AWS IAM groups search](../screenshots/image-03.png)
+![AWS IAM groups search](screenshots/image-03.png)
 ---
 
 ## 5. IAM Policies
@@ -229,7 +229,7 @@ Policies determine which AWS actions are **Allowed** or **Denied** for specific 
 ### Result
 
 **Successfully created or explored an IAM Policy and understood how policies define permissions for AWS resources.**
-![AWS IAM policies search](../screenshots/image-04.png)
+![AWS IAM policies search](screenshots/image-04.png)
 ---
 
 ## 6. IAM Roles
@@ -274,7 +274,7 @@ S3 Permissions
 ### Result
 
 **Successfully created and explored an IAM Role and understood how roles provide permissions to trusted entities.**
-![AWS IAM role](../screenshots/image-05.png)
+![AWS IAM role](screenshots/image-05.png)
 ---
 
 ## 7. Multi-Factor Authentication (MFA)
